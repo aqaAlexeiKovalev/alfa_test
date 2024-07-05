@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "target": "esnext",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "module": "commonjs"
+  }
+}
