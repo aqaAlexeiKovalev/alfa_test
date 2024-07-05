@@ -6,7 +6,7 @@
     "test": "npx bddgen && npx playwright test",
     "allure": "npx allure serve allure-results"
   },
-  "author": "",
+  "author": "Alexei Kovalev",
   "license": "ISC",
   "description": "",
   "dependencies": {
